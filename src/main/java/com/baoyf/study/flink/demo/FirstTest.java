@@ -1,4 +1,4 @@
-package demo;
+package com.baoyf.study.flink.demo;
 
 import org.apache.flink.api.common.functions.MapFunction;
 import org.apache.flink.api.common.typeinfo.TypeHint;

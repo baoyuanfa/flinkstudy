@@ -1,4 +1,4 @@
-package demo;
+package com.baoyf.study.flink.demo;
 
 import org.apache.log4j.Logger;
 
