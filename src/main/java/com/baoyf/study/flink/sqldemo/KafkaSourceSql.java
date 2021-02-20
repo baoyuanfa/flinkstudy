@@ -7,7 +7,7 @@ import org.apache.flink.table.api.bridge.java.StreamTableEnvironment;
 import org.apache.flink.table.catalog.hive.HiveCatalog;
 import org.apache.flink.types.Row;
 
-public class KafkaSqlDDl {
+public class KafkaSourceSql {
 
     public static void main(String[] args) throws Exception {
 
